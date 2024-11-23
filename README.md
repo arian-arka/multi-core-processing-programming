@@ -1,13 +1,10 @@
-# Image processing
+# Multicore Processing
 
 **Introduction**
 
-Implementation of image processing algorithms without using libraries
 
 - [Jacobi Heat Transfer(Open MPI)](#heat-transfer)
 - [Filters](filters/README.md)
-- [Interpolation](interpolation/README.md)
-- [Steganography](steganography/README.md)
 
 ## Heat Transfer
 A conduction Jacobi Heat Transfer simulation on a 2D plate, utilizing parallel processing with the use of MPI,
