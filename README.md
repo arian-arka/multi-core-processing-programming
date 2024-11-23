@@ -4,7 +4,7 @@
 
 
 - [Jacobi Heat Transfer(Open MPI)](#heat-transfer)
-- [Filters](filters/README.md)
+
 
 ## Heat Transfer
 A conduction Jacobi Heat Transfer simulation on a 2D plate, utilizing parallel processing with the use of MPI,
